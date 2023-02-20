@@ -2,6 +2,9 @@
 My name is Irene Duchovny and I'm a junior Full-Stack developer 🌱.
 I just finished a full-stack bootcamp and i have experience in React, JavaScript, Vue.js, HTML, CSS, Node.js and MongoDB. 
 I'm passionate about building efficient, user-friendly applications and love collaborating on exciting projects.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ireneduchovny/)
+
 <!--
 **IreneDuchovny/IreneDuchovny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
